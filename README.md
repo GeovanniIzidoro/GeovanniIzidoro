@@ -5,6 +5,8 @@
 
 ![Geovanni GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanniizidoro&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanniizidoro&layout=compact)
+
 ## Tecnologias que utilizo no dia-a-dia!
 
 <div style="display: inline_block"><br/>
